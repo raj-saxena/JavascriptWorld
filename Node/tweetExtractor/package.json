@@ -1,0 +1,15 @@
+{
+  "name": "tweet-extractor",
+  "version": "1.0.0",
+  "description": "Extracts the tweets with the provided hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-node-client": "0.0.6",
+    "twitter-text": "^1.14.0"
+  }
+}
